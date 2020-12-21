@@ -1,0 +1,2 @@
+useDynLib(StatComp20041, .registration=TRUE)
+exportPattern("^[[:alpha:]]+")
